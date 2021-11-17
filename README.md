@@ -3,6 +3,7 @@ DJANGO E-COMMERCE PROJECT
 To run the project:
 install virtualenv
 fork the code and on the root folder, type source env/bin/activate (for mac cmd)
+run pip3 install -r requirements.txt (for max)
 on cmd, run python manage.py runserver
 
 DESCRIPTION
